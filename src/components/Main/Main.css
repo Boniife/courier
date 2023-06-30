@@ -1,0 +1,29 @@
+.main {
+  padding: 2px 0 25px 0;
+  text-align: center;
+  background-image: url("./images/plane1.jpg");
+  height: 100%;
+  letter-spacing: 3px;
+  font-size: 30px;
+  color: white;
+}
+
+.main-link {
+  display: flex;
+  padding-left: 10px;
+  padding-top: 2px;
+}
+.title {
+  font-size: 60px;
+  font-weight: 600px;
+  color: wheat;
+}
+button {
+  background-color: #1b1b1b;
+  color: white;
+  height: 50px;
+  width: 150px;
+  border-radius: 10px 10px 10px 10px;
+  font-size: large;
+  font-weight: 200px;
+}

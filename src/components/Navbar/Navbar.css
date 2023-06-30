@@ -1,0 +1,31 @@
+.head {
+  display: flex;
+  height: 40px;
+  background-color: black;
+  letter-spacing: none;
+  border-radius: 3px;
+  padding: 2px 0 3px 0;
+}
+.head > .headies {
+  margin-top: 10px;
+  padding-top: none;
+  border-radius: 3px 3px;
+  padding-left: 15px;
+  color: blue;
+  font-style: italic;
+  font-stretch: semi-expanded;
+  margin-left: 40px;
+}
+.head > .header {
+  color: red;
+  margin-left: 5px;
+}
+.bar-logo {
+  position: absolute;
+  height: 1cm;
+  display: flex;
+  margin-top: 5px;
+  margin-left: 8px;
+  border-color: blue;
+  border-radius: 10px;
+}

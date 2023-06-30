@@ -1,0 +1,58 @@
+.tracking {
+  text-align: center;
+}
+.inputs {
+  text-align: center;
+}
+.inputs > input {
+  text-align: center;
+}
+.input-body {
+  margin-bottom: 10px;
+  font-size: large;
+  border-radius: 5px 5px;
+  background-color: wheat;
+}
+.button {
+  background-color: #1b1b1b;
+  cursor: pointer;
+}
+.body-section {
+  background-image: url(./images/deliver3.jpg);
+  height: 400px;
+  display: flexbox;
+  text-align: center;
+}
+.body-text {
+  color: goldenrod;
+}
+.body-bottom-text {
+  width: 100%;
+  height: 100%;
+  color: #1b2b41;
+}
+.para-text {
+  text-align: center;
+  height: 400px;
+  color: black;
+  font-size: large;
+  background-color: #1b2b41;
+}
+.para-text1 {
+  padding-top: 40px;
+  font-size: small;
+  color: wheat;
+}
+.para-text3 {
+  font-size: 20px;
+  color: wheat;
+}
+.para-text4 {
+  color: wheat;
+}
+.para-text > h4 {
+  text-align: left;
+}
+.para-text > h4 {
+  color: white;
+}

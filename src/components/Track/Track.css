@@ -1,0 +1,26 @@
+.track-page {
+  background-color: rgba(59, 214, 214, 0.164);
+  height: fit-content;
+}
+.track-div {
+  height: 580px;
+}
+.track-page > .track-div > h2 {
+  color: burlywood;
+  text-align: center;
+  font-size: large;
+}
+.track-page > .track-div h6 {
+  color: #111;
+  font-weight: 800px;
+  font-size: larger;
+  padding-left: 13px;
+}
+.track-page > .track-div p {
+  color: #111;
+  padding-left: 10px;
+}
+.track-page > .track-div h5 {
+  color: burlywood;
+  padding-left: 15px;
+}

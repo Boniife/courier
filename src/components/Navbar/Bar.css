@@ -1,0 +1,24 @@
+.main-head {
+  display: flex;
+  flex-direction: row;
+  height: 30px;
+  background-color: black;
+  padding-bottom: 35px;
+  padding-left: 10px;
+  /* border-radius: 5px;*/
+  padding-top: 0px;
+}
+.main-head > .main-list {
+  color: whitesmoke;
+}
+.main-head > .main-2list {
+  color: wheat;
+}
+.main-head > .main-3list {
+  padding-left: 950px;
+  color: whitesmoke;
+}
+.main-head > .main-4list {
+  padding-left: 40px;
+  color: wheat;
+}

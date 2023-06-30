@@ -1,0 +1,14 @@
+.register-page {
+  margin-left: 0.5cm;
+  background-image: url("./images/plane4.jpg");
+  text-align: center;
+  color: red;
+  background-color: burlywood;
+}
+.register-page > h4 {
+  margin-bottom: 3.2cm;
+}
+.register-page > p {
+  font-weight: 700px;
+  font-size: larger;
+}
